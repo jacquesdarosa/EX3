@@ -11,7 +11,7 @@ def check_odd_even(n):
  else: 
     print("The given number is Odd number")
         
-# num = 123
+num = 123
 
 print(check_odd_even(n))
 
